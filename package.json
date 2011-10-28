@@ -7,6 +7,6 @@
   "contributors"  : [],
   "dependencies"  : [],
   "lib"           : ".",
-  "main"          : "timecop.js",
+  "main"          : "lib/Timecop",
   "version"       : "0.0.4"
 }
